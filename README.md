@@ -1,4 +1,4 @@
-# ☀️ sun-mall-ui
+# 🍔 sun-mall-ui
 
 A modern snack ecommerce landing page built using HTML & CSS.
 
